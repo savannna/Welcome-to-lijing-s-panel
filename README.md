@@ -1,4 +1,4 @@
 # Welcome-to-lijing-s-panel  
 Hi,this is me,lijing.  
 This is me in 2021  
-[lijing image 1]!(screenshots/pic1.jpg)
+[lijing image 1]!(http://github.com/savannna/Welcome-to-lijing-s-panel/raw/master/screenshots/pic1.jpg)
